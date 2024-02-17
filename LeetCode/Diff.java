@@ -2,8 +2,6 @@
 
 // Discription : Subtract the Product and Sum of Digits of an Integer
 
-package LeetCode;
-
 public class Diff {
     static int subtractProductAndSum(int n) {
         int s=0, p=1;

@@ -1,6 +1,5 @@
 // Link : https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 // Discription : Find Numbers with Even Number of Digits
-package LeetCode;
 
 public class EvenNumber {
     public static int findNumbers(int[] nums) {

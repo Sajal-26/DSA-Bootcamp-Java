@@ -1,8 +1,6 @@
 // Link : https://leetcode.com/problems/richest-customer-wealth/description/
 // Discription : Richest Customer Wealth
 
-package LeetCode;
-
 public class Richest {
     static int maximumWealth(int[][] accounts) {
         int richest = 0;
