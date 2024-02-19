@@ -1,5 +1,5 @@
 // Link : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
-// Description : Find First and Last Position of Element in Sorted Array
+// Description : Find First and Last Position of Element in Sorted Array 
 
 import java.util.Arrays;
 public class FirstLast {
@@ -16,7 +16,7 @@ public class FirstLast {
             } else if(nums[mid] > target)
                 end = mid - 1;
             else
-                start = mid + 1;
+                start = mid + 1; 
         }
         return ans;
     }
