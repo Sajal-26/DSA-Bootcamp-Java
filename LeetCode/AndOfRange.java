@@ -2,7 +2,6 @@
 // Discription : Bitwise AND of Numbers Range
 
 class AndOfRange{
-
     static int rangeBitwiseAnd(int left, int right) {
         int and = 0;
         while(left<right){

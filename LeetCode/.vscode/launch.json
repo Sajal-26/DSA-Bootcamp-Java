@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddToArray",
+            "request": "launch",
+            "mainClass": "AddToArray",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "AndOfRange",
+            "request": "launch",
+            "mainClass": "AndOfRange",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Bitonic",
+            "request": "launch",
+            "mainClass": "Bitonic",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "BitonicSearch",
+            "request": "launch",
+            "mainClass": "BitonicSearch",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Concatenate",
+            "request": "launch",
+            "mainClass": "Concatenate",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "ContinousSum",
+            "request": "launch",
+            "mainClass": "ContinousSum",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "DiaognalSum",
+            "request": "launch",
+            "mainClass": "DiaognalSum",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Diff",
+            "request": "launch",
+            "mainClass": "Diff",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumber",
+            "request": "launch",
+            "mainClass": "EvenNumber",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "FirstLast",
+            "request": "launch",
+            "mainClass": "FirstLast",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "FirstPalindrom",
+            "request": "launch",
+            "mainClass": "FirstPalindrom",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "FlipImage",
+            "request": "launch",
+            "mainClass": "FlipImage",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "GoodPairn",
+            "request": "launch",
+            "mainClass": "GoodPairn",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "HighestAlt",
+            "request": "launch",
+            "mainClass": "HighestAlt",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "KthMissing",
+            "request": "launch",
+            "mainClass": "KthMissing",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "MedianSorted",
+            "request": "launch",
+            "mainClass": "MedianSorted",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "NumbersSmallerThan",
+            "request": "launch",
+            "mainClass": "NumbersSmallerThan",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "PowerOfTwo",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "RevWrd",
+            "request": "launch",
+            "mainClass": "RevWrd",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "ReverseBits",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "ReverseInteger",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Richest",
+            "request": "launch",
+            "mainClass": "Richest",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "RotatedSortedArray",
+            "request": "launch",
+            "mainClass": "RotatedSortedArray",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Search2D",
+            "request": "launch",
+            "mainClass": "Search2D",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "SearchInsertPosition",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "SearchSorted2d",
+            "request": "launch",
+            "mainClass": "SearchSorted2d",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "SmallestGreaterThanTarget",
+            "request": "launch",
+            "mainClass": "SmallestGreaterThanTarget",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "SplitArrayLargestSum",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "TwonJudge",
+            "request": "launch",
+            "mainClass": "TwonJudge",
+            "projectName": "LeetCode_ddf91857"
+        },
+        {
+            "type": "java",
+            "name": "Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "LeetCode_ddf91857"
+        }
+    ]
+}
